@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/the-burroughs-test/static/css/main.621ffdb6.chunk.css",
+    "main.js": "/the-burroughs-test/static/js/main.8bd8e9ec.chunk.js",
+    "main.js.map": "/the-burroughs-test/static/js/main.8bd8e9ec.chunk.js.map",
+    "runtime-main.js": "/the-burroughs-test/static/js/runtime-main.ad76bf81.js",
+    "runtime-main.js.map": "/the-burroughs-test/static/js/runtime-main.ad76bf81.js.map",
+    "static/css/2.ba1b51e3.chunk.css": "/the-burroughs-test/static/css/2.ba1b51e3.chunk.css",
+    "static/js/2.614b1a60.chunk.js": "/the-burroughs-test/static/js/2.614b1a60.chunk.js",
+    "static/js/2.614b1a60.chunk.js.map": "/the-burroughs-test/static/js/2.614b1a60.chunk.js.map",
+    "index.html": "/the-burroughs-test/index.html",
+    "static/css/2.ba1b51e3.chunk.css.map": "/the-burroughs-test/static/css/2.ba1b51e3.chunk.css.map",
+    "static/css/main.621ffdb6.chunk.css.map": "/the-burroughs-test/static/css/main.621ffdb6.chunk.css.map",
+    "static/js/2.614b1a60.chunk.js.LICENSE.txt": "/the-burroughs-test/static/js/2.614b1a60.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad76bf81.js",
+    "static/css/2.ba1b51e3.chunk.css",
+    "static/js/2.614b1a60.chunk.js",
+    "static/css/main.621ffdb6.chunk.css",
+    "static/js/main.8bd8e9ec.chunk.js"
+  ]
+}
