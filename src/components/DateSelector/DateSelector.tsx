@@ -24,7 +24,7 @@ export const DateSelector = () => {
 
   return (
     <div>
-      <h2>Select start date</h2>
+      <h3>Select start date to display payment dates for the following 12 months</h3>
       <DatePicker onChange={handleDateChange} value={startDate} />
     </div>
   );

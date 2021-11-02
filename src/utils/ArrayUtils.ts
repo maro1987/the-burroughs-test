@@ -1,3 +1,3 @@
-export const getArrayIntigers = (length: number) => {
+export const getIntigersArray = (length: number) => {
   return Array.from(Array(length).keys());
 };
